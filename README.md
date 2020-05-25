@@ -8,13 +8,13 @@ This is the folder strucuture for a XYZ project, designed to keep everything tid
 ```bash
 ├── 📂assets
 │   ├── 📂img
-│   │    ⊳ 📂favicon
+│   │   ├── 📂favicon
 │   ├── 📂css
-│   │    ⊳ XYZ_Theme.css
+│   │   ├── XYZ_Theme.css
 │   ├── 📂html
-│   │    ⊳ 📂page
-│   │       ⊳ footer.html
-│   │       ⊳ header.html
+│   │   ├── 📂page
+│   │       ├── footer.html
+│   │       ├── header.html
 │   └── 📂js
 ├── 🌐index.html
 ├── 📰XYZ_Config.json
