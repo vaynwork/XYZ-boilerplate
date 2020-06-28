@@ -17,7 +17,7 @@ This is the folder strucuture for a XYZ project, designed to keep everything tid
 │   │       ├── header.html
 │   └── 📂js
 ├── 🌐index.html
-├── 📰XYZ_Config.json
+├── 📰XYZdata.json
 ├── 📰README.md
 ├── 📰site.webmanifest
 └── .gitignore
