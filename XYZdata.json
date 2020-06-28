@@ -1,8 +1,7 @@
 {
-  "siteName": "hexOS",
-  "description": "DIGITAL EXTENSION OF A MIND",
+  "siteName": "XYZ Boilerplate",
+  "description": "This is a boilerplate for an XYZ project",
   "config": "/",
   "files": "assets",
-  "theme": "hacker",
-  "project_count": 6
+  "theme": "default"
 }
