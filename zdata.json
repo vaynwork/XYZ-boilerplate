@@ -1,6 +1,6 @@
 {
-  "siteName": "XYZ Boilerplate",
-  "description": "This is a boilerplate for an XYZ project",
+  "siteName": "zoon Boilerplate",
+  "description": "This is a boilerplate for a project powered by zoon!",
   "config": "/",
   "files": "assets",
   "theme": "default"
