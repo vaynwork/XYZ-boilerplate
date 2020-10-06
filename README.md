@@ -1,7 +1,7 @@
-#### Vuwnu Web Tools Boilerplate
+### Vuwnu Web Tools Boilerplate
 a boilerplate setup for using Vuwnu Web Tools
 
-### Folder Structure
+#### Folder Structure
 
 This is the folder structure for a project, designed to keep everything tidy and easy to find
 
