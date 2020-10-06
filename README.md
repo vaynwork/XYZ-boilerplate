@@ -1,23 +1,22 @@
-# XYZ-boilerplate
-a boilerplate setup for using XYZ
+#### Vuwnu Web Tools Boilerplate
+a boilerplate setup for using Vuwnu Web Tools
 
 ### Folder Structure
 
-This is the folder strucuture for a XYZ project, designed to keep everything tidy and easy to find
+This is the folder structure for a project, designed to keep everything tidy and easy to find
 
 ```bash
 ├── 📂assets
 │   ├── 📂img
 │   │   ├── 📂favicon
 │   ├── 📂css
-│   │   ├── XYZ_Theme.css
+│   │   ├── style.css
 │   ├── 📂html
 │   │   ├── 📂page
 │   │       ├── footer.html
 │   │       ├── header.html
 │   └── 📂js
 ├── 🌐index.html
-├── 📰XYZdata.json
 ├── 📰README.md
 ├── 📰site.webmanifest
 └── .gitignore
