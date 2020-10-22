@@ -1,7 +1,4 @@
 {
-  "siteName": "zoon Boilerplate",
-  "description": "This is a boilerplate for a project powered by zoon!",
-  "config": "/",
-  "files": "assets",
-  "theme": "default"
+  "siteName": "Vuwnu Web Tech Boilerplate",
+  "description": "This is a boilerplate for a project powered by Vuwnu Web Tech"
 }
